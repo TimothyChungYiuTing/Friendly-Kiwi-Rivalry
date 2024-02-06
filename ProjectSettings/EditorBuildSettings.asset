@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: fd11b7bc895527449aac2d164eb0e539
+  - enabled: 1
+    path: Assets/Scenes/Naming.unity
+    guid: a680e92688d155742878d52f31f85098
+  - enabled: 1
+    path: Assets/Scenes/Broken.unity
+    guid: 8b5abd3472aa0b64bb9d2c7a1b49e3dd
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: f7bf3cbce2c47c442b05cd2b04e76ad2
+  - enabled: 1
+    path: Assets/Scenes/0_Frisbee.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/1_Karate.unity
+    guid: fcd52a1cd0105c847940e7fd8b596a83
+  - enabled: 1
+    path: Assets/Scenes/2_Boost.unity
+    guid: 7749416c2f68fa64c8f892f94c63bab4
+  - enabled: 1
+    path: Assets/Scenes/3_Snipe.unity
+    guid: decfc8f86ffb54a4fbe0a7745ec6740f
+  - enabled: 1
+    path: Assets/Scenes/4_Dodge.unity
+    guid: 947eeec83b660f7479b88c8b9de1f309
+  - enabled: 1
+    path: Assets/Scenes/5_Curling.unity
+    guid: 3b65ab2754648eb439d02ab1c6679c06
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: b53ae95dad073c3418015e952d6e3d77
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: df4805a5102731f47b2058de56c530d9
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: ff30f196942e70143a15890bec80d5a5
+  m_configObjects: {}
